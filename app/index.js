@@ -6,11 +6,9 @@ import { Nearbyjobs, Popularjobs, ScreenHeaderBtn, Welcome } from '../components
 
 const Home = () => {
     return (
-        <View>
-            <Text>
-                Home
-            </Text>
-        </View>
+        <SafeAreaView>
+            <Stack.Screen/>
+        </SafeAreaView>
     )
 }
 
