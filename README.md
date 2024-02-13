@@ -1,4 +1,1 @@
-<center>
-<h1>TechTonic Community Native App</h1>
-
-</center>
+<h1 align="center">TechTonic Community Native App</h1>
